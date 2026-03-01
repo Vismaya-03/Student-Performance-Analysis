@@ -60,7 +60,7 @@ An interactive dashboard was created to present insights visually and enable eas
 
 Dashboard attached in the repository
 
-## 💡 Key Insights
+## Key Insights
 
 - Exploratory Data Analysis revealed generally weak linear relationships between individual factors and academic performance.
 - No single variable strongly determines student outcomes, indicating performance is influenced by multiple combined factors.
